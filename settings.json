@@ -1,6 +1,6 @@
 {
   "tokens": {
-    "main": "",
+    "main": "OTIyMjMwOTkzMDc3ODAwOTkw.G53lwn.55agAbBYHYw3HmNqae0bwG-DhEstXbEGMQ051Q",
     "alts": [
       ""
     ]
@@ -26,7 +26,7 @@
       "ban"
     ],
     "whitelist_words": [
-      "nitro"
+      "Дроп"
     ],
     "blacklist_servers": []
   },
@@ -43,7 +43,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/1081347556526784614/5UGwp9i5eGioSkgDpHkAj9PAySlfCnW6ApFbdI6YPWUv5gUMLDThCQZZVwaTxKoXzy1k",
     "good_only": false
   },
   "blacklist_servers": []
